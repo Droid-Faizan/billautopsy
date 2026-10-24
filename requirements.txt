@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+reportlab
+pandas
+scikit-learn
+httpx
+pydantic
+python-multipart

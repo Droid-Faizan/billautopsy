@@ -1,0 +1,1393 @@
+{
+  "account": "Synthetic StatementSloth checking account ending in 4821",
+  "months": {
+    "2026-08": {
+      "file": "2026_08_statement.pdf",
+      "transaction_count": 44,
+      "wrapped_description_count": 11,
+      "opening_balance": "2500.00",
+      "total_debits": "2802.10",
+      "total_credits": "3250.00",
+      "closing_balance": "2947.90",
+      "reconciles": true,
+      "transactions": [
+        {
+          "transaction_id": "202608-001",
+          "date": "2026-08-01",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 4125",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "2390.00",
+          "reference": "8713"
+        },
+        {
+          "transaction_id": "202608-002",
+          "date": "2026-08-01",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 8116",
+          "debit": "21.92",
+          "credit": "0.00",
+          "balance": "2368.08",
+          "reference": "5922"
+        },
+        {
+          "transaction_id": "202608-003",
+          "date": "2026-08-03",
+          "merchant": "Acme Payroll",
+          "description": "ACME PAYROLL DIRECT DEP 5144 / CUSTOMER REF",
+          "debit": "0.00",
+          "credit": "3250.00",
+          "balance": "5618.08",
+          "reference": " REF"
+        },
+        {
+          "transaction_id": "202608-004",
+          "date": "2026-08-03",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 7505",
+          "debit": "43.57",
+          "credit": "0.00",
+          "balance": "5574.51",
+          "reference": "8583"
+        },
+        {
+          "transaction_id": "202608-005",
+          "date": "2026-08-04",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 1765 / CUSTOMER REF",
+          "debit": "75.09",
+          "credit": "0.00",
+          "balance": "5499.42",
+          "reference": "7512"
+        },
+        {
+          "transaction_id": "202608-006",
+          "date": "2026-08-04",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #2687 POS",
+          "debit": "43.67",
+          "credit": "0.00",
+          "balance": "5455.75",
+          "reference": "7978"
+        },
+        {
+          "transaction_id": "202608-007",
+          "date": "2026-08-04",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #7388 POS",
+          "debit": "37.61",
+          "credit": "0.00",
+          "balance": "5418.14",
+          "reference": "6992"
+        },
+        {
+          "transaction_id": "202608-008",
+          "date": "2026-08-04",
+          "merchant": "Oak Pharmacy",
+          "description": "OAK PHARMACY RX 7447",
+          "debit": "54.74",
+          "credit": "0.00",
+          "balance": "5363.40",
+          "reference": "7420"
+        },
+        {
+          "transaction_id": "202608-009",
+          "date": "2026-08-05",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 5192 / CUSTOMER REF",
+          "debit": "75.96",
+          "credit": "0.00",
+          "balance": "5287.44",
+          "reference": "9470"
+        },
+        {
+          "transaction_id": "202608-010",
+          "date": "2026-08-05",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 2946",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "5177.44",
+          "reference": "5263"
+        },
+        {
+          "transaction_id": "202608-011",
+          "date": "2026-08-05",
+          "merchant": "Cloud Kitchen",
+          "description": "DOORDASH CLOUD KITCHEN ORDER 1887",
+          "debit": "26.16",
+          "credit": "0.00",
+          "balance": "5151.28",
+          "reference": "4688"
+        },
+        {
+          "transaction_id": "202608-012",
+          "date": "2026-08-06",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 2270",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "5041.28",
+          "reference": "4614"
+        },
+        {
+          "transaction_id": "202608-013",
+          "date": "2026-08-06",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 1592 / CUSTOMER REF",
+          "debit": "82.40",
+          "credit": "0.00",
+          "balance": "4958.88",
+          "reference": "1545"
+        },
+        {
+          "transaction_id": "202608-014",
+          "date": "2026-08-07",
+          "merchant": "Streamflix",
+          "description": "ACH WEB STREAMFLIX INC 6779",
+          "debit": "15.49",
+          "credit": "0.00",
+          "balance": "4943.39",
+          "reference": "7012"
+        },
+        {
+          "transaction_id": "202608-015",
+          "date": "2026-08-07",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 6356",
+          "debit": "81.04",
+          "credit": "0.00",
+          "balance": "4862.35",
+          "reference": "3573"
+        },
+        {
+          "transaction_id": "202608-016",
+          "date": "2026-08-09",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 5606",
+          "debit": "143.71",
+          "credit": "0.00",
+          "balance": "4718.64",
+          "reference": "8355"
+        },
+        {
+          "transaction_id": "202608-017",
+          "date": "2026-08-09",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 7193",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "4608.64",
+          "reference": "2404"
+        },
+        {
+          "transaction_id": "202608-018",
+          "date": "2026-08-09",
+          "merchant": "Adobe Creative",
+          "description": "ADOBE *CREATIVE CLOUD 7671",
+          "debit": "19.99",
+          "credit": "0.00",
+          "balance": "4588.65",
+          "reference": "7528"
+        },
+        {
+          "transaction_id": "202608-019",
+          "date": "2026-08-09",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 7124",
+          "debit": "33.89",
+          "credit": "0.00",
+          "balance": "4554.76",
+          "reference": "6387"
+        },
+        {
+          "transaction_id": "202608-020",
+          "date": "2026-08-09",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 3451 SQ *BLUE BOTTLE COFFEE",
+          "debit": "15.05",
+          "credit": "0.00",
+          "balance": "4539.71",
+          "reference": "4719"
+        },
+        {
+          "transaction_id": "202608-021",
+          "date": "2026-08-10",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 7387",
+          "debit": "21.19",
+          "credit": "0.00",
+          "balance": "4518.52",
+          "reference": "5990"
+        },
+        {
+          "transaction_id": "202608-022",
+          "date": "2026-08-10",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 3614",
+          "debit": "12.79",
+          "credit": "0.00",
+          "balance": "4505.73",
+          "reference": "6184"
+        },
+        {
+          "transaction_id": "202608-023",
+          "date": "2026-08-11",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 1534",
+          "debit": "32.05",
+          "credit": "0.00",
+          "balance": "4473.68",
+          "reference": "5679"
+        },
+        {
+          "transaction_id": "202608-024",
+          "date": "2026-08-11",
+          "merchant": "CloudVault",
+          "description": "ORIG CO: CLOUDVAULT FREE TRIAL 4346",
+          "debit": "1.00",
+          "credit": "0.00",
+          "balance": "4472.68",
+          "reference": "6675"
+        },
+        {
+          "transaction_id": "202608-025",
+          "date": "2026-08-12",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 6120 CARD PURCHASE / CUSTOMER REF",
+          "debit": "39.52",
+          "credit": "0.00",
+          "balance": "4433.16",
+          "reference": "3621"
+        },
+        {
+          "transaction_id": "202608-026",
+          "date": "2026-08-13",
+          "merchant": "FitPulse App Trial",
+          "description": "FITPULSE APP TRIAL AUTH 5251 / CUSTOMER REF",
+          "debit": "0.00",
+          "credit": "0.00",
+          "balance": "4433.16",
+          "reference": " REF"
+        },
+        {
+          "transaction_id": "202608-027",
+          "date": "2026-08-15",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 5225 / CUSTOMER REF",
+          "debit": "98.76",
+          "credit": "0.00",
+          "balance": "4334.40",
+          "reference": "1981"
+        },
+        {
+          "transaction_id": "202608-028",
+          "date": "2026-08-15",
+          "merchant": "Metro Gym",
+          "description": "POS DEBIT 7606 METRO GYM MEMBERSHIP",
+          "debit": "45.00",
+          "credit": "0.00",
+          "balance": "4289.40",
+          "reference": "SHIP"
+        },
+        {
+          "transaction_id": "202608-029",
+          "date": "2026-08-16",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 9241",
+          "debit": "12.82",
+          "credit": "0.00",
+          "balance": "4276.58",
+          "reference": "5257"
+        },
+        {
+          "transaction_id": "202608-030",
+          "date": "2026-08-16",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 2999",
+          "debit": "79.07",
+          "credit": "0.00",
+          "balance": "4197.51",
+          "reference": "4613"
+        },
+        {
+          "transaction_id": "202608-031",
+          "date": "2026-08-16",
+          "merchant": "Cloud Kitchen",
+          "description": "DOORDASH CLOUD KITCHEN ORDER 7180",
+          "debit": "29.04",
+          "credit": "0.00",
+          "balance": "4168.47",
+          "reference": "3887"
+        },
+        {
+          "transaction_id": "202608-032",
+          "date": "2026-08-17",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 5938",
+          "debit": "123.28",
+          "credit": "0.00",
+          "balance": "4045.19",
+          "reference": "6778"
+        },
+        {
+          "transaction_id": "202608-033",
+          "date": "2026-08-17",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 9238",
+          "debit": "90.59",
+          "credit": "0.00",
+          "balance": "3954.60",
+          "reference": "2963"
+        },
+        {
+          "transaction_id": "202608-034",
+          "date": "2026-08-17",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 1925 / CUSTOMER REF",
+          "debit": "273.81",
+          "credit": "0.00",
+          "balance": "3680.79",
+          "reference": "9881"
+        },
+        {
+          "transaction_id": "202608-035",
+          "date": "2026-08-18",
+          "merchant": "Oak Pharmacy",
+          "description": "OAK PHARMACY RX 3161",
+          "debit": "54.52",
+          "credit": "0.00",
+          "balance": "3626.27",
+          "reference": "9601"
+        },
+        {
+          "transaction_id": "202608-036",
+          "date": "2026-08-19",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #2421 POS",
+          "debit": "49.45",
+          "credit": "0.00",
+          "balance": "3576.82",
+          "reference": "3973"
+        },
+        {
+          "transaction_id": "202608-037",
+          "date": "2026-08-19",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 8306",
+          "debit": "39.94",
+          "credit": "0.00",
+          "balance": "3536.88",
+          "reference": "2737"
+        },
+        {
+          "transaction_id": "202608-038",
+          "date": "2026-08-19",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/363429/SHARMA GROCERIES / CUSTOMER REF",
+          "debit": "37.75",
+          "credit": "0.00",
+          "balance": "3499.13",
+          "reference": "3506"
+        },
+        {
+          "transaction_id": "202608-039",
+          "date": "2026-08-21",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 9243",
+          "debit": "250.39",
+          "credit": "0.00",
+          "balance": "3248.74",
+          "reference": "4922"
+        },
+        {
+          "transaction_id": "202608-040",
+          "date": "2026-08-23",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 1341 CARD PURCHASE",
+          "debit": "58.21",
+          "credit": "0.00",
+          "balance": "3190.53",
+          "reference": "7657"
+        },
+        {
+          "transaction_id": "202608-041",
+          "date": "2026-08-25",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 3710 SQ *BLUE BOTTLE COFFEE",
+          "debit": "5.68",
+          "credit": "0.00",
+          "balance": "3184.85",
+          "reference": "4261"
+        },
+        {
+          "transaction_id": "202608-042",
+          "date": "2026-08-27",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 1717 / CUSTOMER REF",
+          "debit": "111.74",
+          "credit": "0.00",
+          "balance": "3073.11",
+          "reference": "4185"
+        },
+        {
+          "transaction_id": "202608-043",
+          "date": "2026-08-27",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 2361 SQ *BLUE BOTTLE COFFEE",
+          "debit": "8.06",
+          "credit": "0.00",
+          "balance": "3065.05",
+          "reference": "3227"
+        },
+        {
+          "transaction_id": "202608-044",
+          "date": "2026-08-27",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/778312/SHARMA GROCERIES / CUSTOMER REF",
+          "debit": "117.15",
+          "credit": "0.00",
+          "balance": "2947.90",
+          "reference": "1661"
+        }
+      ]
+    },
+    "2026-09": {
+      "file": "2026_09_statement.pdf",
+      "transaction_count": 44,
+      "wrapped_description_count": 11,
+      "opening_balance": "2947.90",
+      "total_debits": "3570.20",
+      "total_credits": "3250.00",
+      "closing_balance": "2627.70",
+      "reconciles": true,
+      "transactions": [
+        {
+          "transaction_id": "202609-001",
+          "date": "2026-09-02",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 5847",
+          "debit": "165.63",
+          "credit": "0.00",
+          "balance": "2782.27",
+          "reference": "3674"
+        },
+        {
+          "transaction_id": "202609-002",
+          "date": "2026-09-03",
+          "merchant": "Acme Payroll",
+          "description": "ACME PAYROLL DIRECT DEP 6826 / CUSTOMER REF",
+          "debit": "0.00",
+          "credit": "3250.00",
+          "balance": "6032.27",
+          "reference": " REF"
+        },
+        {
+          "transaction_id": "202609-003",
+          "date": "2026-09-04",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 1024",
+          "debit": "79.96",
+          "credit": "0.00",
+          "balance": "5952.31",
+          "reference": "6280"
+        },
+        {
+          "transaction_id": "202609-004",
+          "date": "2026-09-04",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 6808 / CUSTOMER REF",
+          "debit": "146.23",
+          "credit": "0.00",
+          "balance": "5806.08",
+          "reference": "8489"
+        },
+        {
+          "transaction_id": "202609-005",
+          "date": "2026-09-05",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 5951",
+          "debit": "91.93",
+          "credit": "0.00",
+          "balance": "5714.15",
+          "reference": "8321"
+        },
+        {
+          "transaction_id": "202609-006",
+          "date": "2026-09-05",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 4828",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "5604.15",
+          "reference": "4007"
+        },
+        {
+          "transaction_id": "202609-007",
+          "date": "2026-09-06",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #4965 POS / CUSTOMER REF",
+          "debit": "87.51",
+          "credit": "0.00",
+          "balance": "5516.64",
+          "reference": "3494"
+        },
+        {
+          "transaction_id": "202609-008",
+          "date": "2026-09-07",
+          "merchant": "Streamflix",
+          "description": "ACH WEB STREAMFLIX INC 7209",
+          "debit": "15.49",
+          "credit": "0.00",
+          "balance": "5501.15",
+          "reference": "8943"
+        },
+        {
+          "transaction_id": "202609-009",
+          "date": "2026-09-08",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 4581 CARD PURCHASE",
+          "debit": "39.29",
+          "credit": "0.00",
+          "balance": "5461.86",
+          "reference": "8852"
+        },
+        {
+          "transaction_id": "202609-010",
+          "date": "2026-09-08",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 3699",
+          "debit": "21.20",
+          "credit": "0.00",
+          "balance": "5440.66",
+          "reference": "1148"
+        },
+        {
+          "transaction_id": "202609-011",
+          "date": "2026-09-08",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/597836/SHARMA GROCERIES / CUSTOMER REF",
+          "debit": "38.68",
+          "credit": "0.00",
+          "balance": "5401.98",
+          "reference": "4053"
+        },
+        {
+          "transaction_id": "202609-012",
+          "date": "2026-09-09",
+          "merchant": "Adobe Creative",
+          "description": "ADOBE *CREATIVE CLOUD 3609",
+          "debit": "19.99",
+          "credit": "0.00",
+          "balance": "5381.99",
+          "reference": "1744"
+        },
+        {
+          "transaction_id": "202609-013",
+          "date": "2026-09-09",
+          "merchant": "Cloud Kitchen",
+          "description": "DOORDASH CLOUD KITCHEN ORDER 2211",
+          "debit": "34.38",
+          "credit": "0.00",
+          "balance": "5347.61",
+          "reference": "4306"
+        },
+        {
+          "transaction_id": "202609-014",
+          "date": "2026-09-09",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #4083 POS / CUSTOMER REF",
+          "debit": "73.13",
+          "credit": "0.00",
+          "balance": "5274.48",
+          "reference": "8840"
+        },
+        {
+          "transaction_id": "202609-015",
+          "date": "2026-09-09",
+          "merchant": "Oak Pharmacy",
+          "description": "OAK PHARMACY RX 6568",
+          "debit": "36.33",
+          "credit": "0.00",
+          "balance": "5238.15",
+          "reference": "7421"
+        },
+        {
+          "transaction_id": "202609-016",
+          "date": "2026-09-10",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 1428",
+          "debit": "144.35",
+          "credit": "0.00",
+          "balance": "5093.80",
+          "reference": "6779"
+        },
+        {
+          "transaction_id": "202609-017",
+          "date": "2026-09-10",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 1469 CARD PURCHASE",
+          "debit": "42.03",
+          "credit": "0.00",
+          "balance": "5051.77",
+          "reference": "2215"
+        },
+        {
+          "transaction_id": "202609-018",
+          "date": "2026-09-11",
+          "merchant": "CloudVault",
+          "description": "ORIG CO: CLOUDVAULT FREE TRIAL 7272",
+          "debit": "29.00",
+          "credit": "0.00",
+          "balance": "5022.77",
+          "reference": "8382"
+        },
+        {
+          "transaction_id": "202609-019",
+          "date": "2026-09-12",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 4681 / CUSTOMER REF",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "4912.77",
+          "reference": "3436"
+        },
+        {
+          "transaction_id": "202609-020",
+          "date": "2026-09-12",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 5869",
+          "debit": "75.90",
+          "credit": "0.00",
+          "balance": "4836.87",
+          "reference": "7917"
+        },
+        {
+          "transaction_id": "202609-021",
+          "date": "2026-09-12",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 3225",
+          "debit": "230.66",
+          "credit": "0.00",
+          "balance": "4606.21",
+          "reference": "6516"
+        },
+        {
+          "transaction_id": "202609-022",
+          "date": "2026-09-12",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/127517/SHARMA GROCERIES",
+          "debit": "69.47",
+          "credit": "0.00",
+          "balance": "4536.74",
+          "reference": "8839"
+        },
+        {
+          "transaction_id": "202609-023",
+          "date": "2026-09-13",
+          "merchant": "FitPulse App Trial",
+          "description": "FITPULSE APP TRIAL AUTH 7851 / CUSTOMER REF",
+          "debit": "14.99",
+          "credit": "0.00",
+          "balance": "4521.75",
+          "reference": " REF"
+        },
+        {
+          "transaction_id": "202609-024",
+          "date": "2026-09-13",
+          "merchant": "Oak Pharmacy",
+          "description": "OAK PHARMACY RX 2934",
+          "debit": "10.91",
+          "credit": "0.00",
+          "balance": "4510.84",
+          "reference": "8102"
+        },
+        {
+          "transaction_id": "202609-025",
+          "date": "2026-09-13",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/706393/SHARMA GROCERIES",
+          "debit": "62.81",
+          "credit": "0.00",
+          "balance": "4448.03",
+          "reference": "5515"
+        },
+        {
+          "transaction_id": "202609-026",
+          "date": "2026-09-14",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 2582",
+          "debit": "123.38",
+          "credit": "0.00",
+          "balance": "4324.65",
+          "reference": "8531"
+        },
+        {
+          "transaction_id": "202609-027",
+          "date": "2026-09-14",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 9581",
+          "debit": "88.68",
+          "credit": "0.00",
+          "balance": "4235.97",
+          "reference": "8353"
+        },
+        {
+          "transaction_id": "202609-028",
+          "date": "2026-09-14",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 1249 / CUSTOMER REF",
+          "debit": "242.36",
+          "credit": "0.00",
+          "balance": "3993.61",
+          "reference": "6890"
+        },
+        {
+          "transaction_id": "202609-029",
+          "date": "2026-09-14",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 5909",
+          "debit": "198.78",
+          "credit": "0.00",
+          "balance": "3794.83",
+          "reference": "2553"
+        },
+        {
+          "transaction_id": "202609-030",
+          "date": "2026-09-15",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 3335",
+          "debit": "93.25",
+          "credit": "0.00",
+          "balance": "3701.58",
+          "reference": "7952"
+        },
+        {
+          "transaction_id": "202609-031",
+          "date": "2026-09-15",
+          "merchant": "Metro Gym",
+          "description": "POS DEBIT 4777 METRO GYM MEMBERSHIP",
+          "debit": "45.00",
+          "credit": "0.00",
+          "balance": "3656.58",
+          "reference": "SHIP"
+        },
+        {
+          "transaction_id": "202609-032",
+          "date": "2026-09-16",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 1776 CARD PURCHASE",
+          "debit": "60.60",
+          "credit": "0.00",
+          "balance": "3595.98",
+          "reference": "9900"
+        },
+        {
+          "transaction_id": "202609-033",
+          "date": "2026-09-17",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/197053/SHARMA GROCERIES",
+          "debit": "110.08",
+          "credit": "0.00",
+          "balance": "3485.90",
+          "reference": "4196"
+        },
+        {
+          "transaction_id": "202609-034",
+          "date": "2026-09-17",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/905436/SHARMA GROCERIES / CUSTOMER REF",
+          "debit": "53.10",
+          "credit": "0.00",
+          "balance": "3432.80",
+          "reference": "1269"
+        },
+        {
+          "transaction_id": "202609-035",
+          "date": "2026-09-20",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 7413",
+          "debit": "124.54",
+          "credit": "0.00",
+          "balance": "3308.26",
+          "reference": "3196"
+        },
+        {
+          "transaction_id": "202609-036",
+          "date": "2026-09-21",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 4877 / CUSTOMER REF",
+          "debit": "22.87",
+          "credit": "0.00",
+          "balance": "3285.39",
+          "reference": "9456"
+        },
+        {
+          "transaction_id": "202609-037",
+          "date": "2026-09-23",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 9686",
+          "debit": "30.96",
+          "credit": "0.00",
+          "balance": "3254.43",
+          "reference": "3243"
+        },
+        {
+          "transaction_id": "202609-038",
+          "date": "2026-09-23",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 7240",
+          "debit": "268.10",
+          "credit": "0.00",
+          "balance": "2986.33",
+          "reference": "5141"
+        },
+        {
+          "transaction_id": "202609-039",
+          "date": "2026-09-24",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 8551",
+          "debit": "37.37",
+          "credit": "0.00",
+          "balance": "2948.96",
+          "reference": "4919"
+        },
+        {
+          "transaction_id": "202609-040",
+          "date": "2026-09-25",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #8571 POS",
+          "debit": "40.18",
+          "credit": "0.00",
+          "balance": "2908.78",
+          "reference": "4515"
+        },
+        {
+          "transaction_id": "202609-041",
+          "date": "2026-09-26",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 2750 / CUSTOMER REF",
+          "debit": "116.44",
+          "credit": "0.00",
+          "balance": "2792.34",
+          "reference": "7784"
+        },
+        {
+          "transaction_id": "202609-042",
+          "date": "2026-09-26",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 2950",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "2682.34",
+          "reference": "6510"
+        },
+        {
+          "transaction_id": "202609-043",
+          "date": "2026-09-26",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 5372 SQ *BLUE BOTTLE COFFEE",
+          "debit": "14.40",
+          "credit": "0.00",
+          "balance": "2667.94",
+          "reference": "9431"
+        },
+        {
+          "transaction_id": "202609-044",
+          "date": "2026-09-26",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/400698/SHARMA GROCERIES",
+          "debit": "40.24",
+          "credit": "0.00",
+          "balance": "2627.70",
+          "reference": "5714"
+        }
+      ]
+    },
+    "2026-10": {
+      "file": "2026_10_statement.pdf",
+      "transaction_count": 44,
+      "wrapped_description_count": 11,
+      "opening_balance": "2627.70",
+      "total_debits": "2629.61",
+      "total_credits": "3250.00",
+      "closing_balance": "3248.09",
+      "reconciles": true,
+      "transactions": [
+        {
+          "transaction_id": "202610-001",
+          "date": "2026-10-01",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 5706",
+          "debit": "106.78",
+          "credit": "0.00",
+          "balance": "2520.92",
+          "reference": "1179"
+        },
+        {
+          "transaction_id": "202610-002",
+          "date": "2026-10-01",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 2973 / CUSTOMER REF",
+          "debit": "33.80",
+          "credit": "0.00",
+          "balance": "2487.12",
+          "reference": "3792"
+        },
+        {
+          "transaction_id": "202610-003",
+          "date": "2026-10-02",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 5303 / CUSTOMER REF",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "2377.12",
+          "reference": "3529"
+        },
+        {
+          "transaction_id": "202610-004",
+          "date": "2026-10-02",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 5668 SQ *BLUE BOTTLE COFFEE",
+          "debit": "10.29",
+          "credit": "0.00",
+          "balance": "2366.83",
+          "reference": "1959"
+        },
+        {
+          "transaction_id": "202610-005",
+          "date": "2026-10-02",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 9145 CARD PURCHASE",
+          "debit": "50.28",
+          "credit": "0.00",
+          "balance": "2316.55",
+          "reference": "7931"
+        },
+        {
+          "transaction_id": "202610-006",
+          "date": "2026-10-03",
+          "merchant": "Acme Payroll",
+          "description": "ACME PAYROLL DIRECT DEP 6614 / CUSTOMER REF",
+          "debit": "0.00",
+          "credit": "3250.00",
+          "balance": "5566.55",
+          "reference": " REF"
+        },
+        {
+          "transaction_id": "202610-007",
+          "date": "2026-10-03",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 3100",
+          "debit": "170.11",
+          "credit": "0.00",
+          "balance": "5396.44",
+          "reference": "1066"
+        },
+        {
+          "transaction_id": "202610-008",
+          "date": "2026-10-03",
+          "merchant": "QuickFuel Station",
+          "description": "QUICKFUEL STATION 8563 CARD PURCHASE",
+          "debit": "51.45",
+          "credit": "0.00",
+          "balance": "5344.99",
+          "reference": "8619"
+        },
+        {
+          "transaction_id": "202610-009",
+          "date": "2026-10-04",
+          "merchant": "Oak Pharmacy",
+          "description": "OAK PHARMACY RX 9760 / CUSTOMER REF",
+          "debit": "10.77",
+          "credit": "0.00",
+          "balance": "5334.22",
+          "reference": "9129"
+        },
+        {
+          "transaction_id": "202610-010",
+          "date": "2026-10-05",
+          "merchant": "Bright Mobile",
+          "description": "BRIGHT MOBILE AUTOPAY 5364",
+          "debit": "76.87",
+          "credit": "0.00",
+          "balance": "5257.35",
+          "reference": "1836"
+        },
+        {
+          "transaction_id": "202610-011",
+          "date": "2026-10-05",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 1692 SQ *BLUE BOTTLE COFFEE",
+          "debit": "6.68",
+          "credit": "0.00",
+          "balance": "5250.67",
+          "reference": "8774"
+        },
+        {
+          "transaction_id": "202610-012",
+          "date": "2026-10-05",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 5947 SQ *BLUE BOTTLE COFFEE",
+          "debit": "15.84",
+          "credit": "0.00",
+          "balance": "5234.83",
+          "reference": "5912"
+        },
+        {
+          "transaction_id": "202610-013",
+          "date": "2026-10-06",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 8612",
+          "debit": "98.20",
+          "credit": "0.00",
+          "balance": "5136.63",
+          "reference": "6044"
+        },
+        {
+          "transaction_id": "202610-014",
+          "date": "2026-10-07",
+          "merchant": "Streamflix",
+          "description": "ACH WEB STREAMFLIX INC 8861",
+          "debit": "18.99",
+          "credit": "0.00",
+          "balance": "5117.64",
+          "reference": "7396"
+        },
+        {
+          "transaction_id": "202610-015",
+          "date": "2026-10-07",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 5224",
+          "debit": "35.46",
+          "credit": "0.00",
+          "balance": "5082.18",
+          "reference": "9196"
+        },
+        {
+          "transaction_id": "202610-016",
+          "date": "2026-10-07",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #2420 POS",
+          "debit": "36.69",
+          "credit": "0.00",
+          "balance": "5045.49",
+          "reference": "1321"
+        },
+        {
+          "transaction_id": "202610-017",
+          "date": "2026-10-07",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 8187",
+          "debit": "161.68",
+          "credit": "0.00",
+          "balance": "4883.81",
+          "reference": "7025"
+        },
+        {
+          "transaction_id": "202610-018",
+          "date": "2026-10-08",
+          "merchant": "Harbor Insurance",
+          "description": "ACH HARBOR INSURANCE PREMIUM 4468",
+          "debit": "110.00",
+          "credit": "0.00",
+          "balance": "4773.81",
+          "reference": "5074"
+        },
+        {
+          "transaction_id": "202610-019",
+          "date": "2026-10-08",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 2001",
+          "debit": "20.27",
+          "credit": "0.00",
+          "balance": "4753.54",
+          "reference": "3354"
+        },
+        {
+          "transaction_id": "202610-020",
+          "date": "2026-10-09",
+          "merchant": "Adobe Creative",
+          "description": "ADOBE *CREATIVE CLOUD 3749",
+          "debit": "22.99",
+          "credit": "0.00",
+          "balance": "4730.55",
+          "reference": "4292"
+        },
+        {
+          "transaction_id": "202610-021",
+          "date": "2026-10-10",
+          "merchant": "Cloud Kitchen",
+          "description": "DOORDASH CLOUD KITCHEN ORDER 6077",
+          "debit": "35.59",
+          "credit": "0.00",
+          "balance": "4694.96",
+          "reference": "3721"
+        },
+        {
+          "transaction_id": "202610-022",
+          "date": "2026-10-10",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #6074 POS",
+          "debit": "43.22",
+          "credit": "0.00",
+          "balance": "4651.74",
+          "reference": "9946"
+        },
+        {
+          "transaction_id": "202610-023",
+          "date": "2026-10-10",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #6699 POS / CUSTOMER REF",
+          "debit": "84.25",
+          "credit": "0.00",
+          "balance": "4567.49",
+          "reference": "4971"
+        },
+        {
+          "transaction_id": "202610-024",
+          "date": "2026-10-11",
+          "merchant": "Cloud Kitchen",
+          "description": "DOORDASH CLOUD KITCHEN ORDER 2101",
+          "debit": "23.19",
+          "credit": "0.00",
+          "balance": "4544.30",
+          "reference": "4112"
+        },
+        {
+          "transaction_id": "202610-025",
+          "date": "2026-10-11",
+          "merchant": "CloudVault",
+          "description": "ORIG CO: CLOUDVAULT FREE TRIAL 4453",
+          "debit": "29.00",
+          "credit": "0.00",
+          "balance": "4515.30",
+          "reference": "2644"
+        },
+        {
+          "transaction_id": "202610-026",
+          "date": "2026-10-12",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 1534",
+          "debit": "16.96",
+          "credit": "0.00",
+          "balance": "4498.34",
+          "reference": "7987"
+        },
+        {
+          "transaction_id": "202610-027",
+          "date": "2026-10-13",
+          "merchant": "FitPulse App Trial",
+          "description": "FITPULSE APP TRIAL AUTH 2310 / CUSTOMER REF",
+          "debit": "14.99",
+          "credit": "0.00",
+          "balance": "4483.35",
+          "reference": " REF"
+        },
+        {
+          "transaction_id": "202610-028",
+          "date": "2026-10-14",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 7155",
+          "debit": "95.01",
+          "credit": "0.00",
+          "balance": "4388.34",
+          "reference": "3534"
+        },
+        {
+          "transaction_id": "202610-029",
+          "date": "2026-10-15",
+          "merchant": "Cloud Kitchen",
+          "description": "DOORDASH CLOUD KITCHEN ORDER 7642",
+          "debit": "27.49",
+          "credit": "0.00",
+          "balance": "4360.85",
+          "reference": "7899"
+        },
+        {
+          "transaction_id": "202610-030",
+          "date": "2026-10-15",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #4936 POS",
+          "debit": "86.17",
+          "credit": "0.00",
+          "balance": "4274.68",
+          "reference": "7424"
+        },
+        {
+          "transaction_id": "202610-031",
+          "date": "2026-10-15",
+          "merchant": "Metro Gym",
+          "description": "POS DEBIT 1911 METRO GYM MEMBERSHIP",
+          "debit": "45.00",
+          "credit": "0.00",
+          "balance": "4229.68",
+          "reference": "SHIP"
+        },
+        {
+          "transaction_id": "202610-032",
+          "date": "2026-10-15",
+          "merchant": "Metro Gym",
+          "description": "POS DEBIT 3715 METRO GYM MEMBERSHIP REF A",
+          "debit": "45.00",
+          "credit": "0.00",
+          "balance": "4184.68",
+          "reference": "A"
+        },
+        {
+          "transaction_id": "202610-033",
+          "date": "2026-10-15",
+          "merchant": "Metro Gym",
+          "description": "POS DEBIT 5017 METRO GYM MEMBERSHIP REF B",
+          "debit": "45.00",
+          "credit": "0.00",
+          "balance": "4139.68",
+          "reference": "B"
+        },
+        {
+          "transaction_id": "202610-034",
+          "date": "2026-10-17",
+          "merchant": "GreenLeaf Market",
+          "description": "GREENLEAF MARKET #4975 POS / CUSTOMER REF",
+          "debit": "28.15",
+          "credit": "0.00",
+          "balance": "4111.53",
+          "reference": "8133"
+        },
+        {
+          "transaction_id": "202610-035",
+          "date": "2026-10-18",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 9447 / CUSTOMER REF",
+          "debit": "187.64",
+          "credit": "0.00",
+          "balance": "3923.89",
+          "reference": "7856"
+        },
+        {
+          "transaction_id": "202610-036",
+          "date": "2026-10-19",
+          "merchant": "Blue Bottle Coffee",
+          "description": "POS DEBIT 5698 SQ *BLUE BOTTLE COFFEE",
+          "debit": "6.55",
+          "credit": "0.00",
+          "balance": "3917.34",
+          "reference": "6923"
+        },
+        {
+          "transaction_id": "202610-037",
+          "date": "2026-10-21",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 2661",
+          "debit": "29.46",
+          "credit": "0.00",
+          "balance": "3887.88",
+          "reference": "5499"
+        },
+        {
+          "transaction_id": "202610-038",
+          "date": "2026-10-21",
+          "merchant": "Sharma Groceries",
+          "description": "UPI/325879/SHARMA GROCERIES",
+          "debit": "57.53",
+          "credit": "0.00",
+          "balance": "3830.35",
+          "reference": "1748"
+        },
+        {
+          "transaction_id": "202610-039",
+          "date": "2026-10-22",
+          "merchant": "Book Nook",
+          "description": "BOOK NOOK ONLINE ORDER 2913 / CUSTOMER REF",
+          "debit": "23.67",
+          "credit": "0.00",
+          "balance": "3806.68",
+          "reference": "8409"
+        },
+        {
+          "transaction_id": "202610-040",
+          "date": "2026-10-22",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 9405",
+          "debit": "94.71",
+          "credit": "0.00",
+          "balance": "3711.97",
+          "reference": "7371"
+        },
+        {
+          "transaction_id": "202610-041",
+          "date": "2026-10-24",
+          "merchant": "Oak Pharmacy",
+          "description": "OAK PHARMACY RX 4453",
+          "debit": "30.48",
+          "credit": "0.00",
+          "balance": "3681.49",
+          "reference": "6182"
+        },
+        {
+          "transaction_id": "202610-042",
+          "date": "2026-10-26",
+          "merchant": "City Electric",
+          "description": "ACH CITY ELECTRIC UTILITIES 5161 / CUSTOMER REF",
+          "debit": "90.01",
+          "credit": "0.00",
+          "balance": "3591.48",
+          "reference": "5609"
+        },
+        {
+          "transaction_id": "202610-043",
+          "date": "2026-10-27",
+          "merchant": "Northstar Airlines",
+          "description": "NORTHSTAR AIRLINES E-TICKET 8030",
+          "debit": "308.44",
+          "credit": "0.00",
+          "balance": "3283.04",
+          "reference": "7343"
+        },
+        {
+          "transaction_id": "202610-044",
+          "date": "2026-10-27",
+          "merchant": "RideNow",
+          "description": "RIDENOW MOBILITY TRIP 5022 / CUSTOMER REF",
+          "debit": "34.95",
+          "credit": "0.00",
+          "balance": "3248.09",
+          "reference": "3173"
+        }
+      ]
+    }
+  },
+  "anomalies": [
+    {
+      "id": "streamflix-price-creep",
+      "type": "silent_subscription_price_creep",
+      "merchant": "Streamflix",
+      "details": "Monthly charge rises from $15.49 in August and September to $18.99 in October."
+    },
+    {
+      "id": "adobe-creative-price-creep",
+      "type": "silent_subscription_price_creep",
+      "merchant": "Adobe Creative",
+      "details": "Monthly charge rises from $19.99 in August and September to $22.99 in October."
+    },
+    {
+      "id": "cloudvault-trial-conversion",
+      "type": "forgotten_free_trial_conversion",
+      "merchant": "CloudVault",
+      "details": "A $1.00 trial authorization in August is followed by $29.00 charges in September and October."
+    },
+    {
+      "id": "fitpulse-trial-conversion",
+      "type": "forgotten_free_trial_conversion",
+      "merchant": "FitPulse App Trial",
+      "details": "A $0.00 trial authorization in August converts to $14.99 charges in September and October."
+    },
+    {
+      "id": "metro-gym-duplicate",
+      "type": "duplicate_charge",
+      "merchant": "Metro Gym",
+      "details": "October contains two same-day $45.00 charges with different reference numbers."
+    }
+  ]
+}
