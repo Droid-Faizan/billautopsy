@@ -1,4 +1,4 @@
-"""Benchmark the naive baseline against StatementSloth on the sample corpus."""
+"""Benchmark the naive baseline against BillAutopsy on the sample corpus."""
 
 from __future__ import annotations
 
@@ -69,7 +69,7 @@ def main() -> None:
     statement_time = time.perf_counter() - started
     caught = {(report.merchant, report.anomaly_type) for report in reports}
     statement_false = sum(1 for report in reports if (report.merchant, report.anomaly_type) not in ground_truth)
-    print("| Metric | Naive Baseline | StatementSloth |")
+    print("| Metric | Naive Baseline | BillAutopsy |")
     print("|---|---:|---:|")
     print(f"| Balance Reconciliation Rate | 100.0% | 100.0% |")
     print(f"| Merchant Grouping Purity | {baseline_purity * 100:.1f}% | 100.0% |")
